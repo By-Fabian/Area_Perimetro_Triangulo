@@ -1,0 +1,3 @@
+/home/utec/Area_Perimetro_Triangulo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/utec/Area_Perimetro_Triangulo/cmake-build-debug/CMakeFiles/Area_Perimetro_Triangulo.dir
+/home/utec/Area_Perimetro_Triangulo/cmake-build-debug/CMakeFiles/edit_cache.dir

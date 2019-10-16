@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Area_Perimetro_Triangulo.dir/main.cpp.o CMakeFiles/Area_Perimetro_Triangulo.dir/triangulo.cpp.o  -o Area_Perimetro_Triangulo 
